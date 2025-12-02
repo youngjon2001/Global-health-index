@@ -4,7 +4,7 @@ A Data-Driven Assessment of Global Healthcare Performance, Efficiency & Regional
 <div align="center">
 
 </div>
-📌## Project Overview
+#📌 Project Overview
 
 This project analyzes global healthcare performance for 2024 using data scraped from CEOWorld and Numbeo. Through interactive Power BI dashboards, the study evaluates:
 
@@ -172,7 +172,7 @@ Python	Web scraping
 Power Query	Cleaning & transformation
 Power BI	Dashboard creation
 DAX	Metric & measure calculation
-📁 Repository Structure
+#📁 Repository Structure
 📦 Global-Health-Index-2024
 │
 ├── data/
