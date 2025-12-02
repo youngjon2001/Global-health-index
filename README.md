@@ -1,4 +1,4 @@
-##**🩺 Global Health Index 2024**
+**🩺 Global Health Index 2024**
 A Data-Driven Assessment of Global Healthcare Performance, Efficiency & Regional Disparities
 <div align="center">
 
